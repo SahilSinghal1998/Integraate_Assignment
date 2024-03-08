@@ -12,7 +12,7 @@ It supports chrome, firefox, and IE browser for local environment testing. Also,
 1. Open The Comant Prompt & Run Bellow Commands To Open A Chrome Browser With Enabled TrustApp Extension.
 * 	cd "C:\Program Files (x86)\Google\Chrome\Application\"
 * 	chrome.exe --remote-debugging-port=9988 --user-data-dir=C:\ChromeData
-PLEASE DON'T CLOSE THIS OPENED WINDOW TO AVOID FAILURES IN PROJECT EXECUTION]
+>> PLEASE DON'T CLOSE THIS OPENED WINDOW TO AVOID FAILURES IN PROJECT EXECUTION]
 2. Add "TrustApp" Extension from chrome webstore & Enable the extension in opened Chrome Browser window.
 4. Now Export The Attached Project & Open The Solution File In Visual Studio.
 5. Navigate To Build & Rebuild The Project.
