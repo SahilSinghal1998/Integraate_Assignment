@@ -1,0 +1,7 @@
+﻿{
+  "QA": {
+    "WebURL": "https://twitter.com/",
+    "BaseAPI": "192.0.0.0/baseurl",
+    "DataBaseURL": "192.0.0.0/DB"
+  }
+}

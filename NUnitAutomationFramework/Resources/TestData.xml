@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestCases>
+	<TestCase/>
+	<TestCaseId/>
+	<TestData/>
+
+	<TestCase>
+		<TestCaseId>TC001_ValidateTrustAppInTwitter_CNBC</TestCaseId>
+		<TestData>Verifying TestData</TestData>
+	</TestCase>
+
+	<TestCase>
+		<TestCaseId>TC002_ValidateTrustAppInTwitter_CNBC</TestCaseId>
+		<TestData>Verifying TestData</TestData>
+	</TestCase>
+</TestCases>
