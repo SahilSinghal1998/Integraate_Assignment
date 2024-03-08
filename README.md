@@ -9,17 +9,17 @@ It supports chrome, firefox, and IE browser for local environment testing. Also,
 * Visual Studio
 
 # Steps Required Before Execution:
-1. Step 1: Open The Comant Prompt & Run Bellow Commands To Open A Chrome Browser With Enabled TrustApp Extension.
+1. Open The Comant Prompt & Run Bellow Commands To Open A Chrome Browser With Enabled TrustApp Extension.
 * 	cd "C:\Program Files (x86)\Google\Chrome\Application\"
 * 	chrome.exe --remote-debugging-port=9988 --user-data-dir=C:\ChromeData
-* [PLEASE DON'T CLOSE THIS OPENED WINDOW TO AVOID FAILURES IN PROJECT EXECUTION]
-2. Step 2: Add "TrustApp" Extension from chrome webstore & Enable the extension in opened Chrome Browser window.
-4. Step 3: Now Export The Attached Project & Open The Solution File In Visual Studio.
-5. Step 4: Navigate To Build & Rebuild The Project.
-6. Step 5: Now Open Test Explorer & Under Regression We Will Be Able To See 2 Testcases.
-7. Step 6: Right Click On Regression & Click "Run".
-8. Step 7: Now Minimize The Project & We Can See The Scripts Executing In The Opened Chrome Browser.
-9. Step 8: Navigate To Reports Folder In The Project & We Can See & index.HTML File Containing Test Logs.
+PLEASE DON'T CLOSE THIS OPENED WINDOW TO AVOID FAILURES IN PROJECT EXECUTION]
+2. Add "TrustApp" Extension from chrome webstore & Enable the extension in opened Chrome Browser window.
+4. Now Export The Attached Project & Open The Solution File In Visual Studio.
+5. Navigate To Build & Rebuild The Project.
+6. Now Open Test Explorer & Under Regression We Will Be Able To See 2 Testcases.
+7. Right Click On Regression & Click "Run".
+8. Now Minimize The Project & We Can See The Scripts Executing In The Opened Chrome Browser.
+9. Navigate To Reports Folder In The Project & We Can See & index.HTML File Containing Test Logs.
 
 # Get Started
 Git clone URL
